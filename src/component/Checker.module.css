@@ -1,0 +1,19 @@
+.wrapper {
+	width: 1600px;
+	margin: 0 auto;
+	padding: 100px;
+	background-color: transparent;
+}
+
+.bgItem {
+	margin: 10px auto;
+	padding: 50px;
+}
+
+.spanItem {
+	margin: 25px;
+	padding: 25px;
+	font-size: 20px;
+	font-weight: 500;
+	border: 2px solid;
+}
